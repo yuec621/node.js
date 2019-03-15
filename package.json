@@ -18,5 +18,6 @@
   "homepage": "https://github.com/yuec621/nodejs#readme",
   "dependencies": {
     "express": "^4.16.4"
-  }
+  },
+  "devDependencies": {}
 }

@@ -12,7 +12,7 @@
   */
 const express=require('express');
 const app=express();
-app.get('/',(req,res)=>res.send('hello world!'));//ES语法
+app.get('/',(req,res)=>res.send('hello world! 123'));//ES语法
 app.listen(3000,function(){
     console.log('程序运行在 3000端口了！')
 });
